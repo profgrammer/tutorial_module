@@ -1,0 +1,9 @@
+{
+    "id" : "tutorialModule",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "tutorialModule",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
